@@ -1,0 +1,7 @@
+﻿  randPSWgenTerminal.cpp
+randPSWgenTerminal.cpp(167): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  All 137 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  randPSWgenTerminal.vcxproj -> D:\Moe\prog\randPSWgen\Release\randPSWgenTerminal.exe
+  randPSWgenTerminal.vcxproj -> D:\Moe\prog\randPSWgen\Release\randPSWgenTerminal.pdb (Full PDB)

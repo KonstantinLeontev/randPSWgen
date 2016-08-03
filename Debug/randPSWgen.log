@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+d:\moe\prog\randpswgen\MyForm.h(316): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  randPSWgen.vcxproj -> D:\Moe\prog\randPSWgen\Debug\randPSWgen.exe
+  randPSWgen.vcxproj -> D:\Moe\prog\randPSWgen\Debug\randPSWgen.pdb (Full PDB)
